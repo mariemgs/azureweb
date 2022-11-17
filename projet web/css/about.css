@@ -1,0 +1,116 @@
+.pp{
+    position: relative;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 5%;
+}
+
+
+.partie1 ul  {
+   display: grid;
+   grid-template-columns: repeat(3, 450px) ;
+   grid-column-gap: 20px;
+   margin-left: 10%;
+   font-size: 26px;
+   margin-top: 1%;
+}
+.class1{
+background-color: rgb(248, 200, 137);
+text-align: center;
+padding: 0%;
+width: 70%;
+
+}
+.class2{
+    background-color: rgba(253, 214, 164, 0.666);
+    text-align: center;
+    padding: 0%;
+    width: 70%;
+    }
+.class3{
+        background-color: rgb(250, 235, 215);
+        text-align: center;
+        padding: 0%;
+        width: 70%;
+        
+        }    
+
+
+.partie2 h4{
+    font-size: 36px;
+    margin-left: 5%;
+}
+.partie2 p{
+    font-size: 26px;
+    width: 60%;
+    margin-top: -5%;
+    padding: 5%;
+    
+  padding-left: 5%;
+}
+.partie2 img {
+    position: absolute;
+    width: 17%;
+  margin-left: 80%;
+  margin-top: -25%;
+ 
+}
+.partie3{
+    
+    background-color: rgba(250, 235, 215, 0.574);
+    padding: 1%;
+}
+.partie3 img {
+    margin-top: 2%;
+    margin-left: 5%;
+    width: 5%;
+    background-color: rgb(250, 230, 201);
+  padding: 3%;
+}
+.partie3  h1 {
+ font-size: 36px;
+ margin-left: 35%;
+ margin-top: -10%;
+ background-color: rgba(250, 230, 201);
+ padding: 3%;
+ width: 20%;
+
+ text-align: center;
+}
+.par1{
+font-size: 28px;
+}
+.class4 {
+    background-color:rgb(250, 230, 201);
+    width: 90%;
+    padding: 1%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.class5 {
+    background-color:rgb(250, 230, 201);
+    width: 90%;
+    padding: 1%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.class6 {
+    background-color:rgb(250, 230, 201);
+    width: 90%;
+    padding: 1%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.partie4{
+    font-size: 28px;
+    background-color: #1a2d385d;
+    padding: 1%;
+    position: absolute;
+    margin-top: -40%;
+    margin-left: 2%;
+    width: 95%;
+    color: antiquewhite;
+}
+#titre{
+    font-size: 36px;
+}

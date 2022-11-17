@@ -1,0 +1,149 @@
+
+
+/*.mySlides {display: none;} */
+.mySlides img {
+    
+    height: 400px;
+    width: 500px;
+}
+
+
+
+/* Slideshow container */
+.slideshow-container {
+  
+  margin: 0;
+  padding: 0;
+  max-width: 600px;
+  position: relative;
+  
+  margin-left: 80px;
+ 
+}
+
+main img {
+  width: 100%;
+  height: 500px;
+}
+
+.box1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+}
+
+main iframe {
+  height: 350px;
+  width: 550px;
+  
+  margin-left: 130px;
+  border-radius: 20px;
+}
+
+
+
+.box img {
+  width: 550px;
+  height: 350px;
+  
+  padding-left: 60px;
+  border-radius: 35px;
+  opacity: 0.5;
+  
+}
+
+
+.box p{
+  padding: 0px;
+  margin: 0px;
+  padding-left: 150px;
+  padding-top: 20px;
+  font-size: 1.5rem;
+}
+
+
+
+.box2 {
+  width: 50%;
+  text-align: center;
+  
+}
+
+.box {
+  float: left;
+  
+}
+
+
+footer {
+  display: block;
+ 
+}
+
+main h1 {
+  font-size: 4.2rem;
+  padding: 30px;
+  padding-left: 50px;
+  padding-bottom: 0px;
+}
+
+main h2 {
+  font-size: 3.2rem;
+  padding: 10px;
+  padding-left: 50px;
+  color: #1A2E39;
+}
+
+main p {
+  font-size: 1.8rem;
+  text-align: left;
+  padding: 30px;
+  padding-top: 80px;
+  padding-left: 40px;
+  
+  
+}
+
+.actlog img {
+  width: 100px;
+  height: 100px;
+}
+
+.act {
+  display: flex;
+  
+  
+}
+
+.actlog {
+  width: 25%;
+  text-align: center;
+}
+main h3 {
+  font-size: 2rem;
+}
+
+
+.Attention {
+  display: flex;
+  padding-bottom: 100px;
+}
+
+.att {
+  width: 50%;
+  text-align: center;
+  line-height: 2;
+}
+
+.att li {
+  text-align: left;
+  padding-left: 260px;
+}
+
+.attul {
+  padding-left: 40px;
+}
+
+ h3 {
+  color: #487F63;
+}
